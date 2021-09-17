@@ -60,7 +60,7 @@ public class Alerts {
         
         // I am making a comment line 1
         // I am making a comment line 2
-        // I am making a comment line 6
-        // I am making a comment line 7
+        // I am making a comment line 3
+        // I am making a comment line 4
     }
 }
