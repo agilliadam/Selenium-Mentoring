@@ -49,6 +49,7 @@ class Checboxes {
 
         Assert.assertTrue(driver.getPageSource().contains("List of orders is empty"));
 
-
+        WebDriver driver1 = new ChromeDriver(); // Polymorphism
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }
 }
